@@ -1,9 +1,9 @@
 const Example = () => {
   const clickHandler = () => {
-    alert(' ボタンがクリックされました。');
+    alert('ボタンがクリックされました。');
   }
   const clickHandler2 = () => {
-    console.log(' ボタンがクリックされました。');
+    console.log('ボタンがクリックされました。');
   }
   return (
     <>
